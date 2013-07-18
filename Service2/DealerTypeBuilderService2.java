@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import com.polarisind.schemas.dealerservice.AddressType;
 import com.polarisind.schemas.dealerservice.DealerType;
 
-public class DealerTypeBuilder {
+public class DealerTypeBuilderService2 {
 
 	public static final DealerTypeBuilder INSTANCE = new DealerTypeBuilder();
 	
